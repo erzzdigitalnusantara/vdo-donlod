@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: clipdesk
+    runtime: docker
+    plan: free
+    autoDeploy: true
